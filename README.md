@@ -1,4 +1,5 @@
 # 🇰🇷 대한민국 노마드 도시
+링크: https://claude-test-nomad.vercel.app/
 
 디지털 노마드를 위한 한국 도시 정보 플랫폼
 
